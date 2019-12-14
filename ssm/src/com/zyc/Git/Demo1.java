@@ -8,6 +8,6 @@ package com.zyc.Git;
  */
 public class Demo1 {
     public static void main(String[] args) {
-        System.out.println("idea 操作 git");
+        System.out.println("idea 操作 git222");
     }
 }
